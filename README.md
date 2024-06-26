@@ -6,4 +6,4 @@ Doc Processor is a project built for learning Azure Functions concepts. It waits
 
 - .NET 8.0
 - Azure Functions;
-- Azure Storage Explorer for emulating Azure env;
+- Azure Storage Explorer for emulating Azure storage options;
